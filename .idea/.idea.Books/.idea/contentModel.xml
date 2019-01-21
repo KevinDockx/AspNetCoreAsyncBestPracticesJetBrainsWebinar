@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Jetbrains Webinar\Books_Finished" t="IncludeFlat">
+      <e p="BookCovers.API" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BookCovers.API.csproj" t="IncludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="BookCoversController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="BookCovers.API.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="Books.Api" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="ArrayModelBinder.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Books.Api.csproj" t="IncludeRecursive" />
+        <e p="BooksProfile.cs" t="Include" />
+        <e p="Contexts" t="Include">
+          <e p="BooksContext.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="BooksController.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="Author.cs" t="Include" />
+          <e p="Book.cs" t="Include" />
+        </e>
+        <e p="ExternalModels" t="Include">
+          <e p="BookCover.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20180717132912_InitialMigration.cs" t="Include" />
+          <e p="20180717132912_InitialMigration.Designer.cs" t="Include" />
+          <e p="BooksContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Book.cs" t="Include" />
+          <e p="BookCover.cs" t="Include" />
+          <e p="BookForCreation.cs" t="Include" />
+          <e p="BookWithCovers.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Books.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="BooksRepository.cs" t="Include" />
+          <e p="IBooksRepository.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="Books.Legacy" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Books.Legacy.csproj" t="IncludeRecursive" />
+        <e p="ComplicatedPageCalculator.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Books.Legacy.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Books.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\kevin\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kevin\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Books.-765124278.00" t="ExcludeRecursive" />
+  </component>
+</project>

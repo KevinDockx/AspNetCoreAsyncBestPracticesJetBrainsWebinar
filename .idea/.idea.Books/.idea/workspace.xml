@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbd9b43c-37a5-447e-ab15-7d4a99b86ac1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Books.Api/Controllers/BooksController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="122" column="9" selection-start-line="122" selection-start-column="9" selection-end-line="122" selection-end-column="9" />
+              <folding>
+                <marker date="1548080365169" expanded="true" signature="382:4408" ph="{...}" />
+                <marker date="1548080365169" expanded="true" signature="820:1320" ph="{...}" />
+                <marker date="1548080365169" expanded="true" signature="1936:2519" ph="CreateBook" />
+                <marker date="1548080365169" expanded="true" signature="1937:2519" ph="/* [HttpPost] ... */" />
+                <marker date="1548080365169" expanded="false" signature="2531:3774" ph="GetBook with GetBookPages" />
+                <marker date="1548080365169" expanded="true" signature="2728:3314" ph="/* [HttpGet(&quot;{id}&quot;, Name = &quot;GetBook&quot;)] ... */" />
+                <marker date="1548080365169" expanded="false" signature="3784:4392" ph="GetBook with direct call into CalculateBookPages" />
+                <marker date="1548080365169" expanded="true" signature="3900:4372" ph="/* [HttpGet(&quot;{id}&quot;, Name = &quot;GetBook&quot;)] ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Books.Api/Services/IBooksRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Books.Api/Services/BooksRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+              <folding>
+                <marker date="1548080391081" expanded="true" signature="353:4946" ph="{...}" />
+                <marker date="1548080391081" expanded="true" signature="420:4944" ph="{...}" />
+                <marker date="1548080391081" expanded="true" signature="428:1111" ph="Constructor with injected factory" />
+                <marker date="1548080391081" expanded="true" signature="429:1111" ph="/* private BooksContext _context; ... */" />
+                <marker date="1548080391081" expanded="true" signature="1113:1428" ph="/* public async Task&lt;Book&gt; GetBookAsync(Guid id) ... */" />
+                <marker date="1548080391081" expanded="true" signature="1431:1664" ph="AddBook" />
+                <marker date="1548080391081" expanded="true" signature="1432:1664" ph="/* public void AddBook(Book bookToAdd) ... */" />
+                <marker date="1548080391081" expanded="true" signature="1667:1799" ph="SaveChanges" />
+                <marker date="1548080391081" expanded="true" signature="1668:1798" ph="/* public async Task&lt;bool&gt; SaveChangesAsync() ... */" />
+                <marker date="1548080391081" expanded="true" signature="1800:4338" ph="GetBookCoversAsync with Cancellation" />
+                <marker date="1548080391081" expanded="true" signature="1801:4338" ph="/* public async Task&lt;IEnumerable&lt;BookCover&gt;&gt; GetBookCoversAsync(Guid bookId) ... */" />
+                <marker date="1548080391081" expanded="true" signature="4370:4456" ph="{...}" />
+                <marker date="1548080391081" expanded="true" signature="4512:4938" ph="{...}" />
+                <marker date="1548080391081" expanded="true" signature="4549:4928" ph="{...}" />
+                <marker date="1548080391081" expanded="true" signature="4601:4714" ph="{...}" />
+                <marker date="1548080391081" expanded="true" signature="4716:4914" ph="/* if (_cancellationTokenSource != null) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Books.Api/ExternalModels/BookCover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Controllers/BooksController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Migrations/20180717132912_InitialMigration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookCovers.API/Controllers/BookCoversController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Migrations/BooksContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookCovers.API/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Services/BooksRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Services/IBooksRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Entities/Author.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Entities/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Models/BookCover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Contexts/BooksContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Models/BookForCreation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Models/BookWithCovers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Models/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/ArrayModelBinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Books.Legacy/ComplicatedPageCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Books.Api/Models/BookCover.cs" />
+        <option value="$PROJECT_DIR$/Books.Api/Startup.cs" />
+        <option value="$PROJECT_DIR$/BookCovers.API/Startup.cs" />
+        <option value="$PROJECT_DIR$/BookCovers.API/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/Books.Api/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/Books.Api/Migrations/BooksContextModelSnapshot.cs" />
+        <option value="$PROJECT_DIR$/Books.Api/Services/IBooksRepository.cs" />
+        <option value="$PROJECT_DIR$/Books.Api/Controllers/BooksController.cs" />
+        <option value="$PROJECT_DIR$/Books.Api/Services/BooksRepository.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="30" />
+    <option name="y" value="30" />
+    <option name="width" value="2100" />
+    <option name="height" value="1320" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Books" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Books" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Books.Api" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Books" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Books.Api" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Books" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Books.Api" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Services" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Compound.Books and BookCovers API">
+    <configuration name="Books and BookCovers API" type="CompoundRunConfigurationType">
+      <toRun name="BookCovers.API" type="LaunchSettings" />
+      <toRun name="Books.Api" type="LaunchSettings" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="BookCovers.API" type="LaunchSettings" />
+      <toRun name="Books.Api" type="LaunchSettings" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BookCovers.API" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BookCovers.API/BookCovers.API.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="BookCovers.API" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Books.Api" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Books.Api/Books.Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="Books.Api" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.BookCovers.API" />
+      <item itemvalue=".NET Launch Settings Profile.Books.Api" />
+      <item itemvalue="Compound.Books and BookCovers API" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbd9b43c-37a5-447e-ab15-7d4a99b86ac1" name="Default Changelist" comment="" />
+      <created>1548063401598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548063401598</updated>
+      <workItem from="1548063406081" duration="2630000" />
+      <workItem from="1548074113593" duration="2072000" />
+      <workItem from="1548079570753" duration="810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5512000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25663084" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3275218" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39975095" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="REST Client" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.20547946" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BookCovers.API/Controllers/BookCoversController.cs</url>
+          <line>12</line>
+          <properties documentPath="$PROJECT_DIR$/BookCovers.API/Controllers/BookCoversController.cs" initialLine="12">
+            <startOffsets>
+              <option value="356" />
+            </startOffsets>
+            <endOffsets>
+              <option value="357" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BookCovers.API/Controllers/BookCoversController.cs</url>
+          <line>15</line>
+          <properties documentPath="$PROJECT_DIR$/BookCovers.API/Controllers/BookCoversController.cs" initialLine="15">
+            <startOffsets>
+              <option value="471" />
+            </startOffsets>
+            <endOffsets>
+              <option value="487" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Books.Api/Services/BooksRepository.cs</url>
+          <line>113</line>
+          <properties documentPath="$PROJECT_DIR$/Books.Api/Services/BooksRepository.cs" initialLine="115">
+            <startOffsets>
+              <option value="4084" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4206" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Books.Api/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <marker date="1531841329278" expanded="false" signature="6:390" ph="..." />
+            <marker date="1531841329278" expanded="true" signature="411:1602" ph="{...}" />
+            <marker date="1531841329278" expanded="true" signature="438:1600" ph="{...}" />
+            <marker date="1531841329278" expanded="true" signature="491:1429" ph="{...}" />
+            <marker date="1531841329278" expanded="true" signature="887:1363" ph="{...}" />
+            <marker date="1531841329278" expanded="true" signature="921:1089" ph="{...}" />
+            <marker date="1531841329278" expanded="true" signature="1126:1349" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Legacy/ComplicatedPageCalculator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <marker date="1537263108999" expanded="false" signature="6:63" ph="..." />
+            <marker date="1537263108999" expanded="true" signature="87:567" ph="{...}" />
+            <marker date="1537263108999" expanded="true" signature="133:565" ph="{...}" />
+            <marker date="1537263108999" expanded="true" signature="148:224" ph="/// Full CPU load for 5 seconds ... " />
+            <marker date="1537263108999" expanded="true" signature="275:558" ph="{...}" />
+            <marker date="1537263108999" expanded="true" signature="378:524" ph="{...}" />
+            <marker date="1537263108999" expanded="true" signature="446:509" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/ArrayModelBinder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1532352546746" expanded="false" signature="6:195" ph="..." />
+            <marker date="1532352546746" expanded="true" signature="216:2114" ph="{...}" />
+            <marker date="1532352546746" expanded="true" signature="267:2111" ph="{...}" />
+            <marker date="1532352546746" expanded="true" signature="344:2105" ph="{...}" />
+            <marker date="1532352546746" expanded="true" signature="475:615" ph="{...}" />
+            <marker date="1532352546746" expanded="true" signature="916:1061" ph="{...}" />
+            <marker date="1532352546746" expanded="true" signature="1075:1230" ph="/* The value isn't null or whitespace, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/ExternalModels/BookCover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <marker date="1547644452832" expanded="false" signature="6:96" ph="..." />
+            <marker date="1547644452832" expanded="true" signature="132:260" ph="{...}" />
+            <marker date="1547644452832" expanded="true" signature="161:258" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Migrations/BooksContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+          <folding>
+            <marker date="1531834152153" expanded="true" signature="289:5703" ph="{...}" />
+            <marker date="1531834152153" expanded="true" signature="389:5701" ph="{...}" />
+            <marker date="1531834152153" expanded="true" signature="465:5695" ph="{...}" />
+            <marker date="1531834152153" expanded="true" signature="856:1905" ph="{...}" />
+            <marker date="1531834152153" expanded="true" signature="1972:5333" ph="{...}" />
+            <marker date="1531834152153" expanded="true" signature="5400:5650" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Migrations/20180717132912_InitialMigration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="48" column="68" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="68" />
+          <folding>
+            <marker date="1531834152149" expanded="true" signature="93:5427" ph="{...}" />
+            <marker date="1531834152149" expanded="true" signature="149:5425" ph="{...}" />
+            <marker date="1531834152149" expanded="true" signature="225:5179" ph="{...}" />
+            <marker date="1531834152149" expanded="true" signature="365:618" ph="{...}" />
+            <marker date="1531834152149" expanded="true" signature="657:756" ph="{...}" />
+            <marker date="1531834152149" expanded="true" signature="887:1207" ph="{...}" />
+            <marker date="1531834152149" expanded="true" signature="1246:1649" ph="{...}" />
+            <marker date="1531834152149" expanded="true" signature="1848:2241" ph="{...}" />
+            <marker date="1531834152149" expanded="true" signature="2449:5012" ph="{...}" />
+            <marker date="1531834152149" expanded="true" signature="5252:5419" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+          <folding>
+            <marker date="1548064439210" expanded="true" signature="550:2131" ph="{...}" />
+            <marker date="1548064439210" expanded="true" signature="577:2129" ph="{...}" />
+            <marker date="1548064439210" expanded="true" signature="636:699" ph="{...}" />
+            <marker date="1548064439210" expanded="true" signature="922:1697" ph="{...}" />
+            <marker date="1548064439210" expanded="true" signature="1035:1291" ph="/* register the DbContext on the container, getting the connection string from ... */" />
+            <marker date="1548064439210" expanded="true" signature="1885:2123" ph="{...}" />
+            <marker date="1548064439210" expanded="true" signature="1932:2009" ph="{...}" />
+            <marker date="1548064439210" expanded="true" signature="2026:2085" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookCovers.API/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <marker date="1548064445076" expanded="false" signature="6:402" ph="..." />
+            <marker date="1548064445076" expanded="true" signature="428:1343" ph="{...}" />
+            <marker date="1548064445076" expanded="true" signature="455:1341" ph="{...}" />
+            <marker date="1548064445076" expanded="true" signature="514:577" ph="{...}" />
+            <marker date="1548064445076" expanded="true" signature="800:909" ph="{...}" />
+            <marker date="1548064445076" expanded="true" signature="1097:1335" ph="{...}" />
+            <marker date="1548064445076" expanded="true" signature="1144:1221" ph="{...}" />
+            <marker date="1548064445076" expanded="true" signature="1238:1297" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookCovers.API/Controllers/BookCoversController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <marker date="1532417625869" expanded="true" signature="113:1030" ph="{...}" />
+            <marker date="1532417625869" expanded="true" signature="220:1028" ph="{...}" />
+            <marker date="1532417625869" expanded="true" signature="347:1022" ph="{...}" />
+            <marker date="1532417625869" expanded="true" signature="370:458" ph="/* if returnFault is true, wait 500ms and ... */" />
+            <marker date="1532417625869" expanded="true" signature="487:604" ph="{...}" />
+            <marker date="1532417625869" expanded="true" signature="930:1010" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookCovers.API/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Entities/Book.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1531833864380" expanded="false" signature="6:193" ph="..." />
+            <marker date="1531833864380" expanded="true" signature="223:583" ph="{...}" />
+            <marker date="1531833864380" expanded="true" signature="268:580" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Entities/Author.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1531833864397" expanded="false" signature="6:193" ph="..." />
+            <marker date="1531833864397" expanded="true" signature="223:518" ph="{...}" />
+            <marker date="1531833864397" expanded="true" signature="272:516" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Models/Book.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1547646280813" expanded="true" signature="41:253" ph="{...}" />
+            <marker date="1547646280813" expanded="true" signature="65:251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Models/BookCover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <marker date="1548064104791" expanded="true" signature="26:253" ph="{...}" />
+            <marker date="1548064104791" expanded="true" signature="55:251" ph="{...}" />
+            <marker date="1548064104791" expanded="true" signature="120:245" ph="/* don't return the bytes for the demo to avoid ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Models/BookForCreation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1547646280794" expanded="true" signature="41:225" ph="{...}" />
+            <marker date="1547646280794" expanded="true" signature="76:223" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Models/BookWithCovers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1547646280830" expanded="true" signature="61:204" ph="{...}" />
+            <marker date="1547646280830" expanded="true" signature="102:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Contexts/BooksContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1531833864345" expanded="true" signature="233:5028" ph="{...}" />
+            <marker date="1531833864345" expanded="true" signature="383:403" ph="{...}" />
+            <marker date="1531833864345" expanded="true" signature="479:5022" ph="{...}" />
+            <marker date="1531833864345" expanded="true" signature="635:816" ph="{...}" />
+            <marker date="1531833864345" expanded="true" signature="863:1039" ph="{...}" />
+            <marker date="1531833864345" expanded="true" signature="1086:1262" ph="{...}" />
+            <marker date="1531833864345" expanded="true" signature="1309:1487" ph="{...}" />
+            <marker date="1531833864345" expanded="true" signature="1647:1954" ph="{...}" />
+            <marker date="1531833864345" expanded="true" signature="1997:2545" ph="{...}" />
+            <marker date="1531833864345" expanded="true" signature="2588:3450" ph="{...}" />
+            <marker date="1531833864345" expanded="true" signature="3493:4138" ph="{...}" />
+            <marker date="1531833864345" expanded="true" signature="4181:4944" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Services/IBooksRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Controllers/BooksController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="122" column="9" selection-start-line="122" selection-start-column="9" selection-end-line="122" selection-end-column="9" />
+          <folding>
+            <marker date="1548080365169" expanded="true" signature="382:4408" ph="{...}" />
+            <marker date="1548080365169" expanded="true" signature="820:1320" ph="{...}" />
+            <marker date="1548080365169" expanded="true" signature="1936:2519" ph="CreateBook" />
+            <marker date="1548080365169" expanded="true" signature="1937:2519" ph="/* [HttpPost] ... */" />
+            <marker date="1548080365169" expanded="false" signature="2531:3774" ph="GetBook with GetBookPages" />
+            <marker date="1548080365169" expanded="true" signature="2728:3314" ph="/* [HttpGet(&quot;{id}&quot;, Name = &quot;GetBook&quot;)] ... */" />
+            <marker date="1548080365169" expanded="false" signature="3784:4392" ph="GetBook with direct call into CalculateBookPages" />
+            <marker date="1548080365169" expanded="true" signature="3900:4372" ph="/* [HttpGet(&quot;{id}&quot;, Name = &quot;GetBook&quot;)] ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books.Api/Services/BooksRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+          <folding>
+            <marker date="1548080391081" expanded="true" signature="353:4946" ph="{...}" />
+            <marker date="1548080391081" expanded="true" signature="420:4944" ph="{...}" />
+            <marker date="1548080391081" expanded="true" signature="428:1111" ph="Constructor with injected factory" />
+            <marker date="1548080391081" expanded="true" signature="429:1111" ph="/* private BooksContext _context; ... */" />
+            <marker date="1548080391081" expanded="true" signature="1113:1428" ph="/* public async Task&lt;Book&gt; GetBookAsync(Guid id) ... */" />
+            <marker date="1548080391081" expanded="true" signature="1431:1664" ph="AddBook" />
+            <marker date="1548080391081" expanded="true" signature="1432:1664" ph="/* public void AddBook(Book bookToAdd) ... */" />
+            <marker date="1548080391081" expanded="true" signature="1667:1799" ph="SaveChanges" />
+            <marker date="1548080391081" expanded="true" signature="1668:1798" ph="/* public async Task&lt;bool&gt; SaveChangesAsync() ... */" />
+            <marker date="1548080391081" expanded="true" signature="1800:4338" ph="GetBookCoversAsync with Cancellation" />
+            <marker date="1548080391081" expanded="true" signature="1801:4338" ph="/* public async Task&lt;IEnumerable&lt;BookCover&gt;&gt; GetBookCoversAsync(Guid bookId) ... */" />
+            <marker date="1548080391081" expanded="true" signature="4370:4456" ph="{...}" />
+            <marker date="1548080391081" expanded="true" signature="4512:4938" ph="{...}" />
+            <marker date="1548080391081" expanded="true" signature="4549:4928" ph="{...}" />
+            <marker date="1548080391081" expanded="true" signature="4601:4714" ph="{...}" />
+            <marker date="1548080391081" expanded="true" signature="4716:4914" ph="/* if (_cancellationTokenSource != null) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
